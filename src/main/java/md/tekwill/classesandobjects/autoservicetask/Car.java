@@ -20,6 +20,5 @@ public class Car {
         this.plateNumber = plateNumber;
         kmwWhenEnteredTheService = km;
         System.out.println("The car object has been created with all the details");
-
     }
 }

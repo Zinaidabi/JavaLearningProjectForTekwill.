@@ -12,7 +12,6 @@ public class Worker {
         name = "Greg";
         salary = 18000;
         System.out.println("A worker object has been created with default name Greg and salary 18000 MDL");
-
     }
 
 }

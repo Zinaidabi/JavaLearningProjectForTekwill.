@@ -30,7 +30,6 @@ public class ManageAutoService {
         System.out.println(worker001.age);
         System.out.println(garage0001.name);
 
-
     }
 }
 

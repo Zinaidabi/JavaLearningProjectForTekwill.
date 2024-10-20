@@ -14,6 +14,7 @@ public class Tool {
      this.name = name;
      this.price = price;
      this.weight = weight;
+
     }
 
 }
